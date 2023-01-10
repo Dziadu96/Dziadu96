@@ -1,6 +1,5 @@
 ### Cześć, jestem 👋
 
-<!--
 **Dziadu96** jest ✨ _special_ ✨ repozytorium, ponieważ jego `README.md` (ten plik) pojawia się w Twoim profilu GitHub.
 
 Oto kilka pomysłów na początek:
@@ -12,4 +11,4 @@ Oto kilka pomysłów na początek:
 - 📫 Jak do mnie trafić: Łysy#0216
 - 😄 Zaimki:
 - ⚡ Ciekawostka: Ten Profil jest nie aktywny od bardzo dawna...
--->
+
